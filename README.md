@@ -1,0 +1,1 @@
+# several sql server exercises
